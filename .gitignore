@@ -1,0 +1,9 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/.vs
+/bin
+/obj
+/CredPaste/obj
+/CredPaste/bin/Debug/net8.0-windows
